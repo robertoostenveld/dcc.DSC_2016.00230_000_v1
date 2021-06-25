@@ -1,0 +1,1 @@
+../../.git/annex/objects/x5/jp/MD5E-s1702--70408d69aa77ea6a68e2ac65b68d4b2a.sps/MD5E-s1702--70408d69aa77ea6a68e2ac65b68d4b2a.sps
